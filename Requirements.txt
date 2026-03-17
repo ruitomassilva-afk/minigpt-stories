@@ -1,0 +1,7 @@
+gradio==4.44.0
+jax[cpu]==0.4.34
+flax==0.10.2
+optax==0.2.3
+tiktoken==0.8.0
+safetensors==0.4.5
+numpy>=1.26.0
